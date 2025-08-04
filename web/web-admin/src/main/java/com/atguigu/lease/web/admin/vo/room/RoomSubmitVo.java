@@ -29,5 +29,4 @@ public class RoomSubmitVo extends RoomInfo {
 
     @Schema(description = "可选租期列表")
     private List<Long> leaseTermIds;
-
 }
